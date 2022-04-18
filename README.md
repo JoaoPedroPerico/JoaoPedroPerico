@@ -1,0 +1,4 @@
+- 👋 Oi, meu nome é João Pedro Périco
+- 👀 Eu gosto de RPG 📝 e jogos em geral 🎮
+- 🌱 No momento estou revisando meus conhecimentos em MySQL e SpringBoot
+- 📫 joaopedroperico@gmail.com
